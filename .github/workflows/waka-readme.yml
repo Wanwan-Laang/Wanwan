@@ -19,7 +19,4 @@ jobs:
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
           SHOW_TIME: true
-          CODE_LANG: rust # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TOTAL: true # optional
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+        
