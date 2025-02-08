@@ -20,8 +20,6 @@ jobs:
           TIME_RANGE: last_30_days
           SHOW_TIME: true
           CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
