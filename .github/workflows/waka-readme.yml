@@ -20,7 +20,7 @@ jobs:
           SHOW_TITLE: true
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
-          LANG_COUNT: 8
+          LANG_COUNT: 6
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
